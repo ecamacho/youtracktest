@@ -1,4 +1,6 @@
 youtracktest
 ============
 
-Prueba de integración con YouTrack
+Prueba de integración con YouTrack y Github
+
+
